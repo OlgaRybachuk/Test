@@ -1,0 +1,26 @@
+h1 {
+    color: rebeccapurple;
+    background-color: lightskyblue;
+}
+
+.mySpan {
+    font-style: italic;
+    font-size: xx-large;
+    color: darkblue;
+}
+
+.firstParagraph {
+    font-family: "Century Gothic";
+    font-size: medium;
+    color: lightseagreen;
+}
+
+.myLink {
+    text-decoration: none;
+    color: lightcoral;
+}
+
+.myLink:hover{
+    text-decoration: underline;
+    color: red;
+}
