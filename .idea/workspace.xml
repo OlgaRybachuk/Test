@@ -18,8 +18,8 @@
       <file leaf-file-name="SimplePage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/SimplePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+            <state relative-caret-position="634">
+              <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -41,10 +41,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1537296595348" expanded="true" signature="20622:20664" ph="..." />
-                <marker date="1537296595348" expanded="true" signature="20622:20682" ph="..." />
-                <marker date="1537296595348" expanded="true" signature="20622:20695" ph="..." />
-                <marker date="1537296595348" expanded="true" signature="20622:20710" ph="..." />
+                <marker date="1537296981064" expanded="true" signature="20921:20963" ph="..." />
+                <marker date="1537296981064" expanded="true" signature="20921:20981" ph="..." />
+                <marker date="1537296981064" expanded="true" signature="20921:20994" ph="..." />
+                <marker date="1537296981064" expanded="true" signature="20921:21009" ph="..." />
               </folding>
             </state>
           </provider>
@@ -122,7 +122,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HTML" />
+              <option name="myItemId" value="IMAGES" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -136,7 +136,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
+              <option name="myItemId" value="HTML" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,7 +242,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537211631358</updated>
       <workItem from="1537211633357" duration="2988000" />
-      <workItem from="1537275954024" duration="7637000" />
+      <workItem from="1537275954024" duration="8031000" />
     </task>
     <task id="LOCAL-00001" summary="Add span element">
       <created>1537212878624</created>
@@ -272,11 +272,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537292738473</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added 2 images">
+      <created>1537296625322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537296625322</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10625000" />
+    <option name="totallyTimeSpent" value="11019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -313,7 +320,8 @@
     <MESSAGE value="Add span element" />
     <MESSAGE value="Add elements with css styles for them" />
     <MESSAGE value="Added &#10; - text to body&#10; - h2 teg with style" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &#10; - text to body&#10; - h2 teg with style" />
+    <MESSAGE value="Added 2 images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 2 images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -333,10 +341,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537296595348" expanded="true" signature="20622:20664" ph="..." />
-            <marker date="1537296595348" expanded="true" signature="20622:20682" ph="..." />
-            <marker date="1537296595348" expanded="true" signature="20622:20695" ph="..." />
-            <marker date="1537296595348" expanded="true" signature="20622:20710" ph="..." />
+            <marker date="1537296981064" expanded="true" signature="20921:20963" ph="..." />
+            <marker date="1537296981064" expanded="true" signature="20921:20981" ph="..." />
+            <marker date="1537296981064" expanded="true" signature="20921:20994" ph="..." />
+            <marker date="1537296981064" expanded="true" signature="20921:21009" ph="..." />
           </folding>
         </state>
       </provider>
@@ -354,10 +362,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537296595348" expanded="true" signature="20622:20664" ph="..." />
-            <marker date="1537296595348" expanded="true" signature="20622:20682" ph="..." />
-            <marker date="1537296595348" expanded="true" signature="20622:20695" ph="..." />
-            <marker date="1537296595348" expanded="true" signature="20622:20710" ph="..." />
+            <marker date="1537296981064" expanded="true" signature="20921:20963" ph="..." />
+            <marker date="1537296981064" expanded="true" signature="20921:20981" ph="..." />
+            <marker date="1537296981064" expanded="true" signature="20921:20994" ph="..." />
+            <marker date="1537296981064" expanded="true" signature="20921:21009" ph="..." />
           </folding>
         </state>
       </provider>
@@ -372,8 +380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/SimplePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        <state relative-caret-position="634">
+          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
           <folding />
         </state>
       </provider>
