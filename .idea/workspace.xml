@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f3a9f2d-bae7-4f3a-bfa4-8cc6c8825f82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/SimplePage.css" afterPath="$PROJECT_DIR$/CSS/SimplePage.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/SimplePage.html" afterPath="$PROJECT_DIR$/HTML/SimplePage.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,21 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SimplePage.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SimplePage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/SimplePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="532">
+              <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimplePage.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimplePage.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/SimplePage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -42,10 +41,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1537292673302" expanded="true" signature="17970:18012" ph="..." />
-                <marker date="1537292673302" expanded="true" signature="17970:18030" ph="..." />
-                <marker date="1537292673302" expanded="true" signature="17970:18043" ph="..." />
-                <marker date="1537292673302" expanded="true" signature="17970:18058" ph="..." />
+                <marker date="1537296595348" expanded="true" signature="20622:20664" ph="..." />
+                <marker date="1537296595348" expanded="true" signature="20622:20682" ph="..." />
+                <marker date="1537296595348" expanded="true" signature="20622:20695" ph="..." />
+                <marker date="1537296595348" expanded="true" signature="20622:20710" ph="..." />
               </folding>
             </state>
           </provider>
@@ -67,8 +66,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HTML/SimplePage.html" />
         <option value="$PROJECT_DIR$/CSS/SimplePage.css" />
+        <option value="$PROJECT_DIR$/HTML/SimplePage.html" />
       </list>
     </option>
   </component>
@@ -166,6 +165,69 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -180,7 +242,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537211631358</updated>
       <workItem from="1537211633357" duration="2988000" />
-      <workItem from="1537275954024" duration="3729000" />
+      <workItem from="1537275954024" duration="7637000" />
     </task>
     <task id="LOCAL-00001" summary="Add span element">
       <created>1537212878624</created>
@@ -203,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537214463772</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added &#10; - text to body&#10; - h2 teg with style">
+      <created>1537292738473</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537292738473</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6717000" />
+    <option name="totallyTimeSpent" value="10625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -243,7 +312,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add span element" />
     <MESSAGE value="Add elements with css styles for them" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add elements with css styles for them" />
+    <MESSAGE value="Added &#10; - text to body&#10; - h2 teg with style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &#10; - text to body&#10; - h2 teg with style" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -263,10 +333,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537292673302" expanded="true" signature="17970:18012" ph="..." />
-            <marker date="1537292673302" expanded="true" signature="17970:18030" ph="..." />
-            <marker date="1537292673302" expanded="true" signature="17970:18043" ph="..." />
-            <marker date="1537292673302" expanded="true" signature="17970:18058" ph="..." />
+            <marker date="1537296595348" expanded="true" signature="20622:20664" ph="..." />
+            <marker date="1537296595348" expanded="true" signature="20622:20682" ph="..." />
+            <marker date="1537296595348" expanded="true" signature="20622:20695" ph="..." />
+            <marker date="1537296595348" expanded="true" signature="20622:20710" ph="..." />
           </folding>
         </state>
       </provider>
@@ -284,26 +354,26 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537292673302" expanded="true" signature="17970:18012" ph="..." />
-            <marker date="1537292673302" expanded="true" signature="17970:18030" ph="..." />
-            <marker date="1537292673302" expanded="true" signature="17970:18043" ph="..." />
-            <marker date="1537292673302" expanded="true" signature="17970:18058" ph="..." />
+            <marker date="1537296595348" expanded="true" signature="20622:20664" ph="..." />
+            <marker date="1537296595348" expanded="true" signature="20622:20682" ph="..." />
+            <marker date="1537296595348" expanded="true" signature="20622:20695" ph="..." />
+            <marker date="1537296595348" expanded="true" signature="20622:20710" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/SimplePage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/SimplePage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/SimplePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
           <folding />
         </state>
       </provider>
