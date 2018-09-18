@@ -20,7 +20,13 @@ h1 {
     color: lightcoral;
 }
 
-.myLink:hover{
+.myLink:hover {
     text-decoration: underline;
     color: red;
+}
+
+h2 {
+    color: aquamarine;
+    background-color: darkblue;
+
 }
