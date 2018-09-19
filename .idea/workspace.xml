@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f3a9f2d-bae7-4f3a-bfa4-8cc6c8825f82" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/New page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/New page.html" afterPath="$PROJECT_DIR$/HTML/New page.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +28,8 @@
       <file leaf-file-name="New page.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/New page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <state relative-caret-position="340">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -51,10 +51,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1537345111646" expanded="true" signature="24728:24770" ph="..." />
-                <marker date="1537345111646" expanded="true" signature="24728:24788" ph="..." />
-                <marker date="1537345111646" expanded="true" signature="24728:24801" ph="..." />
-                <marker date="1537345111646" expanded="true" signature="24728:24816" ph="..." />
+                <marker date="1537348582508" expanded="true" signature="25170:25212" ph="..." />
+                <marker date="1537348582508" expanded="true" signature="25170:25230" ph="..." />
+                <marker date="1537348582508" expanded="true" signature="25170:25243" ph="..." />
+                <marker date="1537348582508" expanded="true" signature="25170:25258" ph="..." />
               </folding>
             </state>
           </provider>
@@ -260,7 +260,7 @@
       <updated>1537211631358</updated>
       <workItem from="1537211633357" duration="2988000" />
       <workItem from="1537275954024" duration="8690000" />
-      <workItem from="1537334854651" duration="8679000" />
+      <workItem from="1537334854651" duration="10909000" />
     </task>
     <task id="LOCAL-00001" summary="Add span element">
       <created>1537212878624</created>
@@ -318,16 +318,24 @@
       <option name="project" value="LOCAL" />
       <updated>1537344608153</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added:&#10;-New page &quot;Формы&quot;">
+      <created>1537345142331</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1537345142331</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20357000" />
+    <option name="totallyTimeSpent" value="22587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27485928" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -362,7 +370,8 @@
     <MESSAGE value="Change path to images" />
     <MESSAGE value="Added:&#10;-images&#10;-links&#10;-lists" />
     <MESSAGE value="Added:&#10;-table" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added:&#10;-table" />
+    <MESSAGE value="Added:&#10;-New page &quot;Формы&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added:&#10;-New page &quot;Формы&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -390,10 +399,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537345111646" expanded="true" signature="24728:24770" ph="..." />
-            <marker date="1537345111646" expanded="true" signature="24728:24788" ph="..." />
-            <marker date="1537345111646" expanded="true" signature="24728:24801" ph="..." />
-            <marker date="1537345111646" expanded="true" signature="24728:24816" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25212" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25230" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25243" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25258" ph="..." />
           </folding>
         </state>
       </provider>
@@ -411,10 +420,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537345111646" expanded="true" signature="24728:24770" ph="..." />
-            <marker date="1537345111646" expanded="true" signature="24728:24788" ph="..." />
-            <marker date="1537345111646" expanded="true" signature="24728:24801" ph="..." />
-            <marker date="1537345111646" expanded="true" signature="24728:24816" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25212" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25230" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25243" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25258" ph="..." />
           </folding>
         </state>
       </provider>
@@ -432,10 +441,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537345111646" expanded="true" signature="24728:24770" ph="..." />
-            <marker date="1537345111646" expanded="true" signature="24728:24788" ph="..." />
-            <marker date="1537345111646" expanded="true" signature="24728:24801" ph="..." />
-            <marker date="1537345111646" expanded="true" signature="24728:24816" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25212" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25230" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25243" ph="..." />
+            <marker date="1537348582508" expanded="true" signature="25170:25258" ph="..." />
           </folding>
         </state>
       </provider>
@@ -458,8 +467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/New page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="340">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
           <folding />
         </state>
       </provider>
