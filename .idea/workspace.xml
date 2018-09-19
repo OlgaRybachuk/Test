@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f3a9f2d-bae7-4f3a-bfa4-8cc6c8825f82" name="Default" comment="">
+    <list default="true" id="5f3a9f2d-bae7-4f3a-bfa4-8cc6c8825f82" name="Default" comment="Added:&#10;-images&#10;-links&#10;-lists">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/SimplePage.html" afterPath="$PROJECT_DIR$/HTML/SimplePage.html" />
     </list>
@@ -18,8 +18,8 @@
       <file leaf-file-name="SimplePage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/SimplePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+            <state relative-caret-position="736">
+              <caret line="133" column="11" lean-forward="false" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -41,10 +41,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1537339764701" expanded="true" signature="23068:23110" ph="..." />
-                <marker date="1537339764701" expanded="true" signature="23068:23128" ph="..." />
-                <marker date="1537339764701" expanded="true" signature="23068:23141" ph="..." />
-                <marker date="1537339764701" expanded="true" signature="23068:23156" ph="..." />
+                <marker date="1537344535394" expanded="true" signature="23516:23558" ph="..." />
+                <marker date="1537344535394" expanded="true" signature="23516:23576" ph="..." />
+                <marker date="1537344535394" expanded="true" signature="23516:23589" ph="..." />
+                <marker date="1537344535394" expanded="true" signature="23516:23604" ph="..." />
               </folding>
             </state>
           </provider>
@@ -249,7 +249,7 @@
       <updated>1537211631358</updated>
       <workItem from="1537211633357" duration="2988000" />
       <workItem from="1537275954024" duration="8690000" />
-      <workItem from="1537334854651" duration="4884000" />
+      <workItem from="1537334854651" duration="8107000" />
     </task>
     <task id="LOCAL-00001" summary="Add span element">
       <created>1537212878624</created>
@@ -293,11 +293,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537297031247</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added:&#10;-images&#10;-links&#10;-lists">
+      <created>1537339834263</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537339834263</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16562000" />
+    <option name="totallyTimeSpent" value="19785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -336,7 +343,8 @@
     <MESSAGE value="Added &#10; - text to body&#10; - h2 teg with style" />
     <MESSAGE value="Added 2 images" />
     <MESSAGE value="Change path to images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change path to images" />
+    <MESSAGE value="Added:&#10;-images&#10;-links&#10;-lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added:&#10;-images&#10;-links&#10;-lists" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -364,10 +372,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537339764701" expanded="true" signature="23068:23110" ph="..." />
-            <marker date="1537339764701" expanded="true" signature="23068:23128" ph="..." />
-            <marker date="1537339764701" expanded="true" signature="23068:23141" ph="..." />
-            <marker date="1537339764701" expanded="true" signature="23068:23156" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23558" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23576" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23589" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23604" ph="..." />
           </folding>
         </state>
       </provider>
@@ -385,10 +393,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537339764701" expanded="true" signature="23068:23110" ph="..." />
-            <marker date="1537339764701" expanded="true" signature="23068:23128" ph="..." />
-            <marker date="1537339764701" expanded="true" signature="23068:23141" ph="..." />
-            <marker date="1537339764701" expanded="true" signature="23068:23156" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23558" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23576" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23589" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23604" ph="..." />
           </folding>
         </state>
       </provider>
@@ -406,10 +414,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537339764701" expanded="true" signature="23068:23110" ph="..." />
-            <marker date="1537339764701" expanded="true" signature="23068:23128" ph="..." />
-            <marker date="1537339764701" expanded="true" signature="23068:23141" ph="..." />
-            <marker date="1537339764701" expanded="true" signature="23068:23156" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23558" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23576" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23589" ph="..." />
+            <marker date="1537344535394" expanded="true" signature="23516:23604" ph="..." />
           </folding>
         </state>
       </provider>
@@ -424,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/SimplePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        <state relative-caret-position="736">
+          <caret line="133" column="11" lean-forward="false" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
           <folding />
         </state>
       </provider>
