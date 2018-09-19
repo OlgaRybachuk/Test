@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f3a9f2d-bae7-4f3a-bfa4-8cc6c8825f82" name="Default" comment="Added:&#10;-images&#10;-links&#10;-lists">
+    <list default="true" id="5f3a9f2d-bae7-4f3a-bfa4-8cc6c8825f82" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/New page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/SimplePage.html" afterPath="$PROJECT_DIR$/HTML/SimplePage.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SimplePage.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimplePage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/SimplePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="133" column="11" lean-forward="false" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
+            <state relative-caret-position="600">
+              <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="New page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/New page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -41,10 +51,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1537344535394" expanded="true" signature="23516:23558" ph="..." />
-                <marker date="1537344535394" expanded="true" signature="23516:23576" ph="..." />
-                <marker date="1537344535394" expanded="true" signature="23516:23589" ph="..." />
-                <marker date="1537344535394" expanded="true" signature="23516:23604" ph="..." />
+                <marker date="1537345111646" expanded="true" signature="24728:24770" ph="..." />
+                <marker date="1537345111646" expanded="true" signature="24728:24788" ph="..." />
+                <marker date="1537345111646" expanded="true" signature="24728:24801" ph="..." />
+                <marker date="1537345111646" expanded="true" signature="24728:24816" ph="..." />
               </folding>
             </state>
           </provider>
@@ -55,8 +65,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -68,6 +78,7 @@
       <list>
         <option value="$PROJECT_DIR$/CSS/SimplePage.css" />
         <option value="$PROJECT_DIR$/HTML/SimplePage.html" />
+        <option value="$PROJECT_DIR$/HTML/New page.html" />
       </list>
     </option>
   </component>
@@ -249,7 +260,7 @@
       <updated>1537211631358</updated>
       <workItem from="1537211633357" duration="2988000" />
       <workItem from="1537275954024" duration="8690000" />
-      <workItem from="1537334854651" duration="8107000" />
+      <workItem from="1537334854651" duration="8679000" />
     </task>
     <task id="LOCAL-00001" summary="Add span element">
       <created>1537212878624</created>
@@ -300,17 +311,23 @@
       <option name="project" value="LOCAL" />
       <updated>1537339834263</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added:&#10;-table">
+      <created>1537344608153</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1537344608153</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19785000" />
+    <option name="totallyTimeSpent" value="20357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27485928" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -344,7 +361,8 @@
     <MESSAGE value="Added 2 images" />
     <MESSAGE value="Change path to images" />
     <MESSAGE value="Added:&#10;-images&#10;-links&#10;-lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added:&#10;-images&#10;-links&#10;-lists" />
+    <MESSAGE value="Added:&#10;-table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added:&#10;-table" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -372,10 +390,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537344535394" expanded="true" signature="23516:23558" ph="..." />
-            <marker date="1537344535394" expanded="true" signature="23516:23576" ph="..." />
-            <marker date="1537344535394" expanded="true" signature="23516:23589" ph="..." />
-            <marker date="1537344535394" expanded="true" signature="23516:23604" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24770" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24788" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24801" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24816" ph="..." />
           </folding>
         </state>
       </provider>
@@ -393,10 +411,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537344535394" expanded="true" signature="23516:23558" ph="..." />
-            <marker date="1537344535394" expanded="true" signature="23516:23576" ph="..." />
-            <marker date="1537344535394" expanded="true" signature="23516:23589" ph="..." />
-            <marker date="1537344535394" expanded="true" signature="23516:23604" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24770" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24788" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24801" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24816" ph="..." />
           </folding>
         </state>
       </provider>
@@ -414,10 +432,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537344535394" expanded="true" signature="23516:23558" ph="..." />
-            <marker date="1537344535394" expanded="true" signature="23516:23576" ph="..." />
-            <marker date="1537344535394" expanded="true" signature="23516:23589" ph="..." />
-            <marker date="1537344535394" expanded="true" signature="23516:23604" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24770" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24788" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24801" ph="..." />
+            <marker date="1537345111646" expanded="true" signature="24728:24816" ph="..." />
           </folding>
         </state>
       </provider>
@@ -432,8 +450,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/SimplePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="133" column="11" lean-forward="false" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
+        <state relative-caret-position="600">
+          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/New page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding />
         </state>
       </provider>
