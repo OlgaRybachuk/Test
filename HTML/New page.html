@@ -16,6 +16,33 @@
                 <label for="password">Пароль</label>
             </p>
             <input type="password" name="password" id="password" />
+
+            <p>
+                <strong>Оцените наш сайт</strong>
+            </p>
+            <label><input type="radio" name="evaluation" value="excellent" checked="checked" /> Отлично</label><br />
+            <label><input type="radio" name="evaluation" value="good" /> Хорошо</label><br />
+            <label><input type="radio" name="evaluation" value="bad" /> Плохо</label><br />
+
+            <p>
+                <strong> Как вы проводите свободное время?</strong>
+            </p>
+            <label><input type="checkbox" name="leisure[]" value="read" />Читаю книгу</label><br />
+            <label><input type="checkbox" name="leisure[]" value="watch" />Смотрю телевизор</label><br />
+            <label><input type="checkbox" name="leisure[]" value="listen" />Слушаю музыку</label><br />
+            <label><input type="checkbox" name="leaisure[]" value="walk" />Гуляю с друзьями</label><br />
+
+            <p>
+                <label for="musicstyles"><strong>Какие стили музыки вы слушаете?</strong></label>
+            </p>
+            <select name="musicstyles[]" multiple="multiple" size="5" id="musicstyles">
+                <option value="1">Поп</option>
+                <option value="2">Рок</option>
+                <option value="3">Джаз</option>
+                <option value="4">Блюз</option>
+                <option value="5">Рэп</option>
+            </select>
         </form>
+
 </body>
 </html>
