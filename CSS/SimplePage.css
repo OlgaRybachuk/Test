@@ -1,31 +1,23 @@
-h1 {
-    color: rebeccapurple;
-    background-color: lightskyblue;
+p {
+    color: #262626;
 }
 
-.mySpan {
-    font-style: italic;
-    font-size: xx-large;
+.lists {
     color: darkblue;
 }
 
-.firstParagraph {
-    font-family: "Century Gothic";
-    font-size: medium;
-    color: lightseagreen;
+#header {
+    color: crimson;
 }
 
-.myLink {
-    text-decoration: none;
-    color: lightcoral;
+p span {
+    color: darkgoldenrod;
 }
 
-.myLink:hover {
-    text-decoration: underline;
-    color: red;
+h2, h3 {
+    color: blueviolet;
 }
 
-h2 {
-    color: aquamarine;
-    background-color: darkblue;
+a {
+    color: hotpink;
 }

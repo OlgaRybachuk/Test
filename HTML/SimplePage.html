@@ -3,12 +3,13 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Hello world page</title>
-    <link rel="stylesheet" type="text/css" href="../CSS/SimplePage.css">
+
+        <link rel="stylesheet" type="text/css" href="../CSS/SimplePage.css" />
 </head>
 <body>
     <div>
 
-        <h1 align="center" title="Example">My First Heading</h1>
+        <h1 align="center" title="Example" id="header">My First Heading</h1>
         <h2 align="center" title="Hello"> My Second Heading</h2>
 
         <p class="firstParagraph">My first paragraph.</p>
@@ -33,6 +34,7 @@
 
             <a href="mailto:olya@gmail.com">Написать письмо</a>
         </p>
+
         <img src="../images/strawberry.jpg" alt="Picture1" width="350" height="280" />
         <figcaption>Ягоды</figcaption>
 
@@ -59,19 +61,19 @@
 
     <img src="../images/berries.jpg" alt="Picture2" width="350" height="280" />
 
-                 <ol type="a">
+                 <ol type="a" class="lists">
                      <li>Многие думают, что Lorem Ipsum - взятый с потолка псевдо-латинский набор слов, но это не совсем так.</li>
                      <li>Его корни уходят в один фрагмент классической латыни 45 года н.э.</li>
                      <li>Первая строка Lorem Ipsum, "Lorem ipsum dolor sit amet..", происходит от одной из строк в разделе 1.10.32</li>
                  </ol>
 
-                 <ul type="square">
+                 <ul type="square" class="lists">
                      <li>Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться.</li>
                      <li>Многие программы электронной вёрстки и редакторы HTML используют Lorem Ipsum в качестве текста по умолчанию</li>
                      <li>Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации</li>
                  </ul>
 
-                 <ol>
+                 <ol class="lists">
                      <li>Классический текст Lorem Ipsum, используемый с XVI века, приведён ниже.
                          <ul>
                              <li>Некоторые версии появились по ошибке</li>
@@ -108,6 +110,8 @@
         </p>
 
         <! -- Comment -->
+
+        <h3>Формы</h3>
 
     <table border="1" width="1200" cellpadding="20">
         <caption align="center"><h3>Видеокурсы</h3></caption>
