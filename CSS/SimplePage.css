@@ -1,6 +1,10 @@
+body {
+    color: black;
+    font: 14px/1.5 arial, verdana tahoma, sans-serif;
+}
+
 p {
     color: #262626;
-    font: 14px/1.5 arial, sans-serif;
     text-indent: 35px;
 }
 
@@ -8,21 +12,17 @@ ol {
     list-style: upper-alpha inside;
 }
 
+
+
 ul {
     list-style: inside square;
 }
 
 #header {
     color: crimson;
-    font-family: Cambria;
-    font-size: 30px;
     text-align: center;
 }
 
-h2 {
-    font-family: Cambria;
-    font-size: 24px;
-}
 
 p span {
     color: darkgoldenrod;
@@ -69,12 +69,5 @@ tr {
 
 .left-column {
     text-align: left;
-}
-
-.border {
-    border-top: 2px dotted darkblue;
-    border-bottom: 1px solid rebeccapurple;
-    border-left: 3px dashed palegreen;
-    border-right: 3px dashed palegreen;
 }
 
