@@ -4,8 +4,12 @@ p {
     font-size: 16px;
 }
 
-.lists {
-    color: darkblue;
+ol {
+        list-style: upper-alpha inside;
+}
+
+ul {
+        list-style: inside square;
 }
 
 #header {
@@ -22,6 +26,7 @@ h2 {
 
 p span {
     color: darkgoldenrod;
+    text-decoration: line-through;
 }
 
 h2, h3 {
@@ -29,8 +34,24 @@ h2, h3 {
     text-align: center;
 }
 
-a {
-    color: hotpink;
+a:link {
+    color: darkgreen;
+}
+
+a:visited {
+    color: goldenrod;
+}
+
+a:hover {
+    color: cyan;
+}
+
+a:active {
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
 }
 
 .bold-text {
@@ -48,3 +69,11 @@ tr {
 .left-column {
     text-align: left;
 }
+
+.border {
+      border-top: 2px dotted darkblue;
+    border-bottom: 1px solid rebeccapurple;
+    border-left: 3px dashed palegreen;
+    border-right: 3px dashed palegreen;
+}
+
