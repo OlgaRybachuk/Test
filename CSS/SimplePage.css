@@ -1,5 +1,7 @@
 p {
     color: #262626;
+    font-family: arial, sans-serif;
+    font-size: 16px;
 }
 
 .lists {
@@ -8,6 +10,14 @@ p {
 
 #header {
     color: crimson;
+    font-family: Cambria;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Cambria;
+    font-size: 24px;
 }
 
 p span {
@@ -16,8 +26,25 @@ p span {
 
 h2, h3 {
     color: blueviolet;
+    text-align: center;
 }
 
 a {
     color: hotpink;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.italic-text{
+    font-style: italic; font-weight: bold;
+}
+
+tr {
+    text-align: center;
+}
+
+.left-column {
+    text-align: left;
 }
