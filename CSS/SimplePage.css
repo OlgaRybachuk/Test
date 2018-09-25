@@ -1,15 +1,15 @@
 p {
     color: #262626;
-    font-family: arial, sans-serif;
-    font-size: 16px;
+    font: 14px/1.5 arial, sans-serif;
+    text-indent: 35px;
 }
 
 ol {
-        list-style: upper-alpha inside;
+    list-style: upper-alpha inside;
 }
 
 ul {
-        list-style: inside square;
+    list-style: inside square;
 }
 
 #header {
@@ -58,8 +58,9 @@ a:hover {
     font-weight: bold;
 }
 
-.italic-text{
-    font-style: italic; font-weight: bold;
+.italic-text {
+    font-style: italic;
+    font-weight: bold;
 }
 
 tr {
@@ -71,7 +72,7 @@ tr {
 }
 
 .border {
-      border-top: 2px dotted darkblue;
+    border-top: 2px dotted darkblue;
     border-bottom: 1px solid rebeccapurple;
     border-left: 3px dashed palegreen;
     border-right: 3px dashed palegreen;
