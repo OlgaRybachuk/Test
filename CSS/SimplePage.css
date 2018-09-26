@@ -115,3 +115,7 @@ th {
     background-color: lightsalmon;
     color: brown;
 }
+
+#berry {
+    float: right;
+}
