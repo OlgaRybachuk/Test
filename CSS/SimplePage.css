@@ -71,3 +71,8 @@ tr {
     text-align: left;
 }
 
+#box {
+    border: 2px solid grey;
+    width: 50%;
+    }
+
