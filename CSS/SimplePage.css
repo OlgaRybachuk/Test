@@ -145,3 +145,24 @@ th {
     margin-top: -50px;
 
 }
+
+#test {
+    margin: 0 auto;
+    display: block;
+}
+
+#test2 {
+    margin: 0 auto;
+    display: block;
+}
+
+#order {
+    width: 212px;
+    height: 169px;
+    margin: 15px auto;
+
+}
+
+#elements {
+    list-style: none;
+}
