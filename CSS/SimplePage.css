@@ -95,6 +95,7 @@ tr {
     padding: 30px 40px;
     margin: 20px auto;
     background-color: white;
+    position: relative;
 
 }
 
@@ -118,4 +119,29 @@ th {
 
 #berry {
     float: right;
+}
+
+#free {
+    width: 130px;
+    height: 127px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#new {
+    position: absolute;
+    top: -4px;
+    left: -4px;
+
+}
+
+#contact {
+    width: 100px;
+    height: 102px;
+    position: fixed;
+    left: 0;
+    top: 50%;
+    margin-top: -50px;
+
 }
