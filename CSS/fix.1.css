@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #dbdbdb;
+}
+
+html,body {
+    height: 100%;
+}
+
+#wrap {
+    width: 980px;
+    margin: 0;
+    background-color: white;
+    min-height: 100%;
+    position: relative;
+}
+
+#header {
+    height: 100px;
+    background-color: #dbdbdb;
+}
+
+#content {
+    padding-bottom: 50px;
+    overflow: hidden;
+}
+
+#rightcol {
+    width: 180px;
+    float: right;
+}
+
+#main {
+    overflow: hidden;
+}
+
+#footer {
+    height: 50px;
+    background-color: #dbdbdb;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.content {
+    padding: 15px;
+    }
